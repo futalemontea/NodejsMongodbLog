@@ -13,5 +13,8 @@
   ],
   "author": "futalemontea",
   "license": "GNU",
-  "git repository":"https://github.com/futalemontea/NodejsMongodbLog"
+  "git repository": "https://github.com/futalemontea/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
